@@ -7,4 +7,4 @@ Pi-NoteBook is a simple text editor make by using python tkinter Library.
 
 ## Download Pi-Notebook from
 
-![Visit](https://pi-notebook.netlify.app/)
+[Visit](https://pi-notebook.netlify.app/)
